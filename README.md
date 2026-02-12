@@ -71,7 +71,3 @@ google-generativeai
 | Winter | 0-15 degrees C | Garlic, Onions, Winter Wheat |
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
